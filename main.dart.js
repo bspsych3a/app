@@ -84207,7 +84207,7 @@ s.w=!1},
 $S:0}
 A.anQ.prototype={
 $1(a){var s=null,r=A.aCm(0),q=r<=0?"-":B.h.k(r)
-return A.bw("IES: "+q,s,s,s,A.bK(s,s,B.j,s,s,s,s,s,"PressStart2P",s,s,this.a,s,s,B.ar,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
+return A.bw("Score: "+q,s,s,s,A.bK(s,s,B.j,s,s,s,s,s,"PressStart2P",s,s,this.a,s,s,B.ar,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
 $S:546}
 A.anR.prototype={
 $1(a){var s=this.b.a,r=s.b,q=this.a,p=q.a.d===B.er?0.72:0.62,o=B.c.bM((r-96*this.c)*p,240,r*0.88),n=q.a
