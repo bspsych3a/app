@@ -25419,7 +25419,7 @@ aCm(a){var s,r=$.Hm
 if(r===0||$.wB===0)return 0
 s=$.XJ/r/1000/(r/$.wB)
 if(s<=0||isNaN(s)||s==1/0||s==-1/0)return 0
-return Math.max(0,B.c.aK(1/s*1000)-a*10)},
+return Math.max(0,B.c.aK(1/s*1000)-a*3)},
 arS(){var s=0,r=A.P(t.H),q,p,o,n,m,l,k
 var $async$arS=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:if($.a0==null)A.aAu()
